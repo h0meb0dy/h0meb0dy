@@ -1,5 +1,3 @@
-![h0meb0dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0meb0dy&show_icons=true&theme=cobalt)
-
 ### Name
 
 조성준 (Seongjoon Cho)
