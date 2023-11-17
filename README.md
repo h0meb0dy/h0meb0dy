@@ -1,14 +1,6 @@
-### Name
+**Name** 조성준 (Seongjoon Cho, a.k.a. h0meb0dy)
 
-조성준 (Seongjoon Cho)
-
-### Nickname
-
-h0meb0dy
-
-### E-mail
-
-[h0meb0dysj@gmail.com](mailto:h0meb0dysj@gmail.com)
+**E-mail** [h0meb0dysj@gmail.com](mailto:h0meb0dysj@gmail.com)
 
 ---
 
