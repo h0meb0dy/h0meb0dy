@@ -1,6 +1,6 @@
 **Name** 조성준 (Seongjoon Cho, a.k.a. h0meb0dy)
 
-**E-mail** [h0meb0dysj@gmail.com](mailto:h0meb0dysj@gmail.com)
+**Contact** [h0meb0dysj@gmail.com](mailto:h0meb0dysj@gmail.com) | [@h0meb0dysj](https://twitter.com/h0meb0dysj)
 
 ---
 
