@@ -9,5 +9,5 @@
 - CTF Team CyKor (2019.03. ~)
 - Hanwha Life, New Business Sector, Cyber Security Node, Intern (2022.01. ~ 2022.02.)
 - KITRI Best of the Best (BoB) 11th, Vulnerability Analysis (2022.07. ~ 2023.03.)
-- CW Research, Researcher (2023.03. ~ 2024.02.)
+- CW Research Inc., Researcher (2023.03. ~ 2024.02.)
 - Republic of Korea Army (2024.03. ~ 2025.09.)
